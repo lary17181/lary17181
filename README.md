@@ -1,4 +1,4 @@
-## Oii eu sou a Larissa!!
+
 
 - 👩‍💻 Estudando Computação Quantica e desenvolvimento de sistemas
   
